@@ -9,6 +9,7 @@ int main() {
 }
 */
 //day two
+/*
 #include <iostream>  // Required for input/output
 
 int main() {
@@ -18,4 +19,15 @@ int main() {
 
     std::cout << "You entered: " << num << std::endl;
     return 0;
+}
+*/
+//day three
+#include <iostream>
+int main()
+{
+    char name[100];
+    int a,b,c;
+    std::cin>>name>>a>>b;
+    c=a+b;
+    std::cout<<"thank you "<<name<<" sum is "<<c;
 }
