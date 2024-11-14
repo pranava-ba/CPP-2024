@@ -22,6 +22,7 @@ int main() {
 }
 */
 //day three
+/*
 #include <iostream>
 int main()
 {
@@ -30,4 +31,16 @@ int main()
     std::cin>>name>>a>>b;
     c=a+b;
     std::cout<<"thank you "<<name<<" sum is "<<c;
+}
+*/
+//day four
+#include <iostream>
+int main()
+{
+    int a;
+    int b;
+    bool x;
+    std::cin >> a >> b;
+    x= a<=b && b<=a;
+    std::cout <<x;
 }
