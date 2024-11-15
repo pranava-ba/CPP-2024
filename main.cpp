@@ -34,6 +34,7 @@ int main()
 }
 */
 //day four
+/*
 #include <iostream>
 int main()
 {
@@ -43,4 +44,25 @@ int main()
     std::cin >> a >> b;
     x= a<=b && b<=a;
     std::cout <<x;
+}
+*/
+//day five
+#include <iostream>
+int main()
+{
+    int a;
+    std::cout << "Enter a number: ";
+    std::cin >> a;
+    if(a>0)
+    {
+        std::cout << a << " is positive ";
+    }
+    else if(a==0)
+    {
+        std::cout << a << " is zero ";
+    }
+    else {
+        {
+            std::cout << a << " is negative ";
+        }}
 }
