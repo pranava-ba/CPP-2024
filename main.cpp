@@ -47,6 +47,7 @@ int main()
 }
 */
 //day five
+/*
 #include <iostream>
 int main()
 {
@@ -66,3 +67,18 @@ int main()
             std::cout << a << " is negative ";
         }}
 }
+*/
+//day six
+#include <iostream>
+
+// Function to add two integers
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int result = add(3, 5);  // Calling the function with arguments 3 and 5
+    std::cout << "The sum is: " << result << std::endl;  // Output the result
+    return 0;
+}
+
