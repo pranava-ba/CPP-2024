@@ -4,3 +4,4 @@ Everyday CPP progress
 3. Sum of two numbers
 4. Compare two integers
 5. Zero, Positive or Negative check
+6. simple udf to add 2 numbers
