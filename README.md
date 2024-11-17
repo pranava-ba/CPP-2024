@@ -5,3 +5,4 @@ Everyday CPP progress
 4. Compare two integers
 5. Zero, Positive or Negative check
 6. simple udf to add 2 numbers
+7. simple udf to divide without zero error
