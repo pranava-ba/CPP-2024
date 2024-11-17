@@ -69,8 +69,8 @@ int main()
 }
 */
 //day six
+/*
 #include <iostream>
-
 // Function to add two integers
 int add(int a, int b) {
     return a + b;
@@ -81,4 +81,20 @@ int main() {
     std::cout << "The sum is: " << result << std::endl;  // Output the result
     return 0;
 }
+*/
+//day seven
+#include <iostream>
+int divide(int num1, int num2)
+{
+    if(num2 !=0){
+    return num1 / num2;}
+    else
+    {
+        return -1;
+    }
+}
 
+int main()
+{
+    std::cout << divide(6,3) << std::endl;
+}
