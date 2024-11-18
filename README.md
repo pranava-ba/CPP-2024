@@ -5,6 +5,6 @@
 3. Sum of two numbers
 4. Compare two integers
 5. Zero, Positive or Negative check
-6. simple udf to add 2 numbers
-7. simple udf to divide without zero error
+6. Simple udf to add 2 numbers
+7. Simple udf to divide without zero error
 ## Week Two
