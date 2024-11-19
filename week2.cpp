@@ -25,3 +25,21 @@ std::string fizzbuzz(int n) {
         return std::to_string(n);  // Not divisible by 3 or 5, return the number
     }
 }
+
+//day nine
+#include <iostream>
+
+int main() {
+    int a;
+    std::cout << "Enter age: ";
+    std::cin >> a;
+
+    if (a >= 18) {
+        std::cout << "can vote" << std::endl;
+    } else {
+        std::cout << "cannot" << std::endl;
+    }
+
+    return 0; // main should return an integer
+}
+
