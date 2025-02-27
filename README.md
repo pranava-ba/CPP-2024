@@ -11,3 +11,6 @@
 ## Week Two
 8. FizzBuzz
 9. Voter Age
+---
+### A long break was taken due to Semester Exams
+now notes and programs run in CCC Code Tantra 5 day workshop have been added here
